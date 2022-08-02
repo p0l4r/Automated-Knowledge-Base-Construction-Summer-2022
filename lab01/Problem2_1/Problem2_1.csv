@@ -1,0 +1,201 @@
+Title,POS Type,POS,Frequency
+Bill Gates,Verb,ref,337
+Bill Gates,Verb,live,77
+Bill Gates,Verb,com,50
+Bill Gates,Verb,cite,23
+Bill Gates,Verb,include,20
+Bill Gates,Adjective,dead,44
+Bill Gates,Adjective,rich,37
+Bill Gates,Adjective,org,24
+Bill Gates,Adjective,new,20
+Bill Gates,Adjective,global,20
+Cristiano Ronaldo,Verb,ref,755
+Cristiano Ronaldo,Verb,com,78
+Cristiano Ronaldo,Verb,cristiano,74
+Cristiano Ronaldo,Verb,ronaldo,58
+Cristiano Ronaldo,Verb,play,46
+Cristiano Ronaldo,Adjective,real,206
+Cristiano Ronaldo,Adjective,portugal,153
+Cristiano Ronaldo,Adjective,final,140
+Cristiano Ronaldo,Adjective,good,95
+Cristiano Ronaldo,Adjective,ronaldo,89
+Lionel Messi,Verb,ref,803
+Lionel Messi,Verb,com,97
+Lionel Messi,Verb,cite,59
+Lionel Messi,Verb,win,47
+Lionel Messi,Verb,barcelona,46
+Lionel Messi,Adjective,final,160
+Lionel Messi,Adjective,good,120
+Lionel Messi,Adjective,second,85
+Lionel Messi,Adjective,dead,47
+Lionel Messi,Adjective,international,43
+Serena Williams,Verb,ref,498
+Serena Williams,Verb,win,96
+Serena Williams,Verb,lose,91
+Serena Williams,Verb,set,89
+Serena Williams,Verb,com,73
+Serena Williams,Adjective,open,662
+Serena Williams,Adjective,single,331
+Serena Williams,Adjective,final,180
+Serena Williams,Adjective,australian,178
+Serena Williams,Adjective,double,156
+Brad Pitt,Verb,ref,283
+Brad Pitt,Verb,live,167
+Brad Pitt,Verb,brad,52
+Brad Pitt,Verb,com,47
+Brad Pitt,Verb,receive,28
+Brad Pitt,Adjective,good,73
+Brad Pitt,Adjective,dead,45
+Brad Pitt,Adjective,golden,31
+Brad Pitt,Adjective,metacritic,22
+Brad Pitt,Adjective,big,20
+Selena Gomez,Verb,ref,448
+Selena Gomez,Verb,com,72
+Selena Gomez,Verb,want,27
+Selena Gomez,Verb,live,24
+Selena Gomez,Verb,tell,24
+Selena Gomez,Adjective,new,90
+Selena Gomez,Adjective,dead,71
+Selena Gomez,Adjective,single,65
+Selena Gomez,Adjective,hot,30
+Selena Gomez,Adjective,second,29
+Google,Verb,ref,435
+Google,Verb,live,222
+Google,Verb,com,56
+Google,Verb,cite,32
+Google,Verb,include,29
+Google,Adjective,new,41
+Google,Adjective,big,30
+Google,Adjective,antitrust,30
+Google,Adjective,good,30
+Google,Adjective,global,29
+Microsoft,Verb,ref,280
+Microsoft,Verb,live,148
+Microsoft,Verb,com,60
+Microsoft,Verb,buy,22
+Microsoft,Verb,announce,20
+Microsoft,Adjective,new,69
+Microsoft,Adjective,dead,39
+Microsoft,Adjective,open,39
+Microsoft,Adjective,international,18
+Microsoft,Adjective,corporate,17
+Volkswagen,Verb,ref,251
+Volkswagen,Verb,live,86
+Volkswagen,Verb,com,34
+Volkswagen,Verb,vw,27
+Volkswagen,Verb,include,27
+Volkswagen,Adjective,new,59
+Volkswagen,Adjective,dead,52
+Volkswagen,Adjective,electric,45
+Volkswagen,Adjective,large,31
+Volkswagen,Adjective,hybrid,31
+Germany,Verb,ref,364
+Germany,Verb,live,193
+Germany,Verb,include,30
+Germany,Verb,establish,22
+Germany,Verb,und,21
+Germany,Adjective,german,270
+Germany,Adjective,large,46
+Germany,Adjective,federal,45
+Germany,Adjective,org,40
+Germany,Adjective,international,34
+United States of America,Verb,ref,678
+United States of America,Verb,include,48
+United States of America,Verb,com,30
+United States of America,Verb,establish,27
+United States of America,Verb,cite,25
+United States of America,Adjective,american,126
+United States of America,Adjective,org,86
+United States of America,Adjective,federal,72
+United States of America,Adjective,large,68
+United States of America,Adjective,high,60
+Barack Obama,Verb,ref,697
+Barack Obama,Verb,live,114
+Barack Obama,Verb,cite,85
+Barack Obama,Verb,com,76
+Barack Obama,Verb,leave,28
+Barack Obama,Adjective,presidential,80
+Barack Obama,Adjective,dead,76
+Barack Obama,Adjective,new,61
+Barack Obama,Adjective,american,42
+Barack Obama,Adjective,politic,41
+India,Verb,ref,304
+India,Verb,leave,64
+India,Verb,com,44
+India,Verb,include,37
+India,Verb,live,34
+India,Adjective,indian,200
+India,Adjective,large,60
+India,Adjective,economic,53
+India,Adjective,dead,38
+India,Adjective,nuclear,36
+Angela Merkel,Verb,ref,343
+Angela Merkel,Verb,live,218
+Angela Merkel,Verb,com,39
+Angela Merkel,Verb,cite,32
+Angela Merkel,Verb,receive,25
+Angela Merkel,Adjective,german,174
+Angela Merkel,Adjective,federal,42
+Angela Merkel,Adjective,dead,36
+Angela Merkel,Adjective,grand,33
+Angela Merkel,Adjective,european,30
+Ed Sheeran,Verb,ref,426
+Ed Sheeran,Verb,cite,38
+Ed Sheeran,Verb,include,23
+Ed Sheeran,Verb,perform,23
+Ed Sheeran,Verb,write,21
+Ed Sheeran,Adjective,single,101
+Ed Sheeran,Adjective,sheeran,57
+Ed Sheeran,Adjective,official,49
+Ed Sheeran,Adjective,good,47
+Ed Sheeran,Adjective,new,43
+Shawn Mendes,Verb,ref,230
+Shawn Mendes,Verb,com,15
+Shawn Mendes,Verb,beat,14
+Shawn Mendes,Verb,perform,13
+Shawn Mendes,Verb,donate,13
+Shawn Mendes,Adjective,mende,115
+Shawn Mendes,Adjective,single,47
+Shawn Mendes,Adjective,new,26
+Shawn Mendes,Adjective,second,25
+Shawn Mendes,Adjective,hot,21
+Vladimir Putin,Verb,ref,979
+Vladimir Putin,Verb,cite,76
+Vladimir Putin,Verb,com,63
+Vladimir Putin,Verb,live,43
+Vladimir Putin,Verb,visit,34
+Vladimir Putin,Adjective,russian,337
+Vladimir Putin,Adjective,ukraine,94
+Vladimir Putin,Adjective,new,67
+Vladimir Putin,Adjective,dead,64
+Vladimir Putin,Adjective,military,61
+George R. R. Martin,Verb,ref,234
+George R. R. Martin,Verb,write,37
+George R. R. Martin,Verb,live,19
+George R. R. Martin,Verb,come,18
+George R. R. Martin,Verb,com,18
+George R. R. Martin,Adjective,good,62
+George R. R. Martin,Adjective,livejournal,37
+George R. R. Martin,Adjective,new,37
+George R. R. Martin,Adjective,wild,36
+George R. R. Martin,Adjective,dead,35
+Elon Musk,Verb,ref,500
+Elon Musk,Verb,live,190
+Elon Musk,Verb,com,115
+Elon Musk,Verb,spacex,73
+Elon Musk,Verb,cite,45
+Elon Musk,Adjective,tesla,44
+Elon Musk,Adjective,worth,28
+Elon Musk,Adjective,private,28
+Elon Musk,Adjective,public,27
+Elon Musk,Adjective,electric,24
+Sundar Pichai,Verb,ref,68
+Sundar Pichai,Verb,live,29
+Sundar Pichai,Verb,com,14
+Sundar Pichai,Verb,emerge,4
+Sundar Pichai,Verb,include,4
+Sundar Pichai,Adjective,new,14
+Sundar Pichai,Adjective,open,9
+Sundar Pichai,Adjective,indian,7
+Sundar Pichai,Adjective,quiet,7
+Sundar Pichai,Adjective,shy,5

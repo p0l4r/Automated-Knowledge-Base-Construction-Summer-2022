@@ -1,0 +1,8 @@
+SELECT ?characters 
+WHERE
+{
+  ?characters wdt:P1441 wd:Q15228.
+  ?characters wdt:P21 wd:Q6581097.
+}
+
+You can try out this example query at: https://query.wikidata.org/#SELECT%20%3Fcharacters%20%0AWHERE%0A%7B%0A%20%20%3Fcharacters%20wdt%3AP1441%20wd%3AQ15228.%0A%20%20%3Fcharacters%20wdt%3AP21%20wd%3AQ6581097.%0A%7D

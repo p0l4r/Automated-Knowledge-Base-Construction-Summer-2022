@@ -1,0 +1,12 @@
+SELECT ?fictionaluniverse (COUNT(?characters) AS ?characters)
+WHERE
+{
+  ?fictionaluniverse wdt:P31 / wdt:P179* wd:Q559618.
+  ?characters wdt:P1441 / wdt:P179 / wdt:P674 * ?fictionaluniverse .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+GROUP BY ?fictionaluniverse
+ORDER BY DESC(?characters)
+
+
+You can try out this example query at: https://query.wikidata.org/#SELECT%20%3Ffictionaluniverse%20%28COUNT%28%3Fcharacters%29%20AS%20%3Fcharacters%29%0AWHERE%0A%7B%0A%20%20%3Ffictionaluniverse%20wdt%3AP31%20%2F%20wdt%3AP179%2a%20wd%3AQ559618.%0A%20%20%3Fcharacters%20wdt%3AP1441%20%2F%20wdt%3AP179%20%2F%20wdt%3AP674%20%2a%20%3Ffictionaluniverse%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Ffictionaluniverse%0AORDER%20BY%20DESC%28%3Fcharacters%29
