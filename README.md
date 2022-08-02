@@ -4,6 +4,8 @@ Knowledge gathering, representation, and reasoning are among the fundamental cha
 
 This repository contains my lab works for the course AKBC, Summer 2022.
 
+**P.S. you might to find out the ```webisalod-pairs.txt``` dataset for hyponym-hypernym relations , by yourself. I can't upload it as the size is too big.**
+
 ## Programming Language
 ```python```
 
